@@ -5,13 +5,6 @@ Prints a static greeting message to the console.
 """
 message = "Hello, World! The process has started."
 print(message)
-
-if name == "main":
-show_greeting()
-</code></pre>
-
-4. پیام کامیت اولیه (Initial Commit Message):
-
 <pre><code class="lang-text">Initial commit
 </code></pre>
 
